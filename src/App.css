@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+.app{
+  height: 80vh;
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 3rem;
+}
+
+.map{
+  height: 100%;
+  width: 100%;
+}
+
+.marker{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/787/787535.png);
+  background-size: cover;
+  background-color: none;
+  border: solid 3px darkgray;
+  border-radius: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.marker-delivery{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/787/787535.png);
+  background-size: cover;
+  background-color: none;
+  border: solid 3px red;
+  border-radius: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.user-input{
+  margin-top: 50px;
+}
