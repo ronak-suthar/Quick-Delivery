@@ -11,8 +11,8 @@ This Web Application helps in Calculating the Shortest Route for Delivery of Log
 
 The Initial Map and Marker to Drag and Set Origin Location
 
-![Map Initial](/media/ronak/Secondary_NVME/projects/Deliver-Quick/quick-delivery/images/img01.png)
+![Map Initial](./images/img01.png)
 
 Next step is to point delivery locations and the best route wil be automatically marked
 
-![Marked Route](/media/ronak/Secondary_NVME/projects/Deliver-Quick/quick-delivery/images/img02.png)
+![Marked Route](./images/img02.png)
